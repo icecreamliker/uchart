@@ -1,4 +1,4 @@
-require('./animation');
+require('./libs/animation');
 
 var PieChart = require('./pie');
 var BarChart = require('./bar');

@@ -1,4 +1,4 @@
-var Chart = require('./index');
+var Chart = require('../index');
 
 var c = new Chart.PieChart(document.getElementById('container'));
 

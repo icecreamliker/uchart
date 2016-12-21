@@ -1,5 +1,5 @@
-var easing = require('./easing');
-var autoscale = require('./autoscale');
+var easing = require('./libs/easing');
+var autoscale = require('./libs/autoscale');
 
 class GaugeChart {
   constructor(container) {

@@ -1,6 +1,6 @@
-var easing = require('./easing');
-var autoscale = require('./autoscale');
-var utils = require('./utils');
+var easing = require('./libs/easing');
+var autoscale = require('./libs/autoscale');
+var utils = require('./libs/utils');
 
 class LineChart {
   constructor(container) {
